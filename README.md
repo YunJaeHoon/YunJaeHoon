@@ -14,6 +14,4 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunJaeHoon&langs_count=10&layout=compact&theme=dark)](https://github.com/YunJaeHoon/YunJaeHoon)﻿
+<br/>﻿
